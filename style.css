@@ -14,9 +14,10 @@ body{
     background-image: linear-gradient(20deg, #c06353 , #56369b,#041c91 );
 }
 .logo{
-    margin-top: 1%;
-    margin-left: 2%;
-    width: 30vh;
+    position:absolute;
+    left:0;
+    top:0;
+    width: 250px;
 }
 
 .wrapper{
