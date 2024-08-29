@@ -15,8 +15,8 @@ body{
 }
 .logo{
     position:absolute;
-    left:0;
-    top:0;
+    left: 1%;
+    top: 2%;
     width: 30vh;
 }
 
